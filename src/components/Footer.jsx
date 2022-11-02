@@ -11,7 +11,7 @@ import { FiInstagram } from "react-icons/fi";
 const Footer = () => {
   return (
 
-<section className="bg-dark_Cyan text-white md:p-20 p-10   h-full z-0">
+<section className="bg-dark_Cyan text-white md:p-20 p-4   h-full z-0">
 <div className="text-xl flex flex-wrap flex-col md:flex-row justify-between gap-14 md:items-center pt-20 ">
       <div className=" md:w-[30em] space-y-5">
         <img src={logo} alt="" className="" />

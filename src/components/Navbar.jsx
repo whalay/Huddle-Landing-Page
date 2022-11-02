@@ -1,7 +1,7 @@
 import logo from "../assets/images/logo.svg";
 const Navbar = () => {
   return (
-    <section className="flex justify-between items-center p-10">
+    <section className="flex justify-between items-center p-4 md:p-10">
       <img src={logo} alt="" />
 
     

@@ -6,7 +6,7 @@ import user from "../assets/images/illustration-your-users.svg";
 
 const Section = () => {
   return (
-    <section className=" flex flex-col  m-10 mt-20 md:mx-20 h-full">
+    <section className=" flex flex-col  m-6  mt-20 md:mx-20 h-full">
       <div className=" flex justify-between items-center flex-col-reverse md:flex-row gap-10 p-10 border shadow-2xl rounded-xl">
         <div className=" md:m-10 text-center md:text-left">
           <h1 className="text-4xl font-bold px-10 pb-5">Grow Together</h1>

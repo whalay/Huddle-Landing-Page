@@ -2,7 +2,7 @@ import mockup from "../assets/images/illustration-mockups.svg";
 
 const Hero = () => {
   return (
-    <section className="flex md:flex-row flex-col  justify-between items-center p-10 gap-20 h-full">
+    <section className="flex md:flex-row flex-col  justify-between items-center p-4 md:p-10 gap-20 h-full">
       <div className=" md:w-[60rem] text-center md:text-left">
         <h1 className="text-4xl font-bold py-5 text ">
           Build The Community Your Fans Will Love
