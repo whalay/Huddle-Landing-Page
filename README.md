@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/desktop.jpg)
+![](desktop.jpg)
 ![](/mobile.jpg)
 
 
