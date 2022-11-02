@@ -7,7 +7,7 @@ const NotFound = () => {
   return (
     <section className="bg-heroM md:bg-heroD bg-cover bg-pale_Cyan h-screen">
       <Navbar />
-      <div className="md:p-20 text-center block items-center justify-center">
+      <div className="py-20 md:p-20 text-center block items-center justify-center">
         <motion.p 
         animate={{ x: [10, 150, 10], opacity: 1, scale: 1 }}
         transition={{
