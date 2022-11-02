@@ -17,7 +17,7 @@ const NotFound = () => {
         }}
         initial={{ opacity: 0, scale: 0.5 }}
         whileHover={{ scale: 1.2 }}
-        className="text-4xl md:text-5xl font-bold text-black ">OYA SOPE <span className="text-Pink">OTILOR</span></motion.p>
+        className="text-4xl md:text-5xl font-bold text-black ">OYA SOPE <span className="text-Pink inline-block">OTILOR</span></motion.p>
         <motion.p
         animate={{x: [200, 100, -200],  y:-400 , opacity: 1, scale: 1 }}
         transition={{
