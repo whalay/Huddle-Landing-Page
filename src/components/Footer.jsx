@@ -1,5 +1,7 @@
 import React from "react";
+
 import logo from "../assets/images/logo1.svg";
+
 
 import { MdOutlineLocationOn } from "react-icons/md";
 import { BsTelephoneX } from "react-icons/bs";
