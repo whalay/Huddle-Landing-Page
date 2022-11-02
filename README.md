@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop.jpg)
-![](./mobile.jpg)
+![](/desktop.jpg)
+![](/mobile.jpg)
 
 
 
@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://holar-huddle.netlify.app)
-- Live Site URL: [Add live site URL here](https://github.com/whalay/Huddle-Landing-Page)
+- Solution URL: [Github](https://holar-huddle.netlify.app)
+- Live Site URL: [Huddle](https://github.com/whalay/Huddle-Landing-Page)
 
 ## My process
 
@@ -58,7 +58,7 @@ Users should be able to:
 ## Author
 
 - Website - [holar](https://www.holar-portfolio.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/whalay)
+- Frontend Mentor - [@whalay](https://www.frontendmentor.io/profile/whalay)
 - Twitter - [@holar](https://www.twitter.com/holar)
 
 
