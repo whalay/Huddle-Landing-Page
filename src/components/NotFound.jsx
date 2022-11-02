@@ -9,7 +9,7 @@ const NotFound = () => {
       <Navbar />
       <div className="p-20 text-center block items-center justify-center">
         <motion.p 
-        animate={{ x: [50, 150, 50], opacity: 1, scale: 1 }}
+        animate={{ x: [10, 150, 20], opacity: 1, scale: 1 }}
         transition={{
             duration: 3,
             delay: 0.3,
@@ -17,7 +17,7 @@ const NotFound = () => {
         }}
         initial={{ opacity: 0, scale: 0.5 }}
         whileHover={{ scale: 1.2 }}
-        className="text-4xl md:text-5xl font-bold text-black ">OYA SOPE <span className="text-Pink inline-block">OTILOR</span></motion.p>
+        className="text-4xl md:text-5xl font-bold text-black ">OYA SOPE <span className="text-Pink inline-flex">OTILOR</span></motion.p>
         <motion.p
         animate={{x: [200, 100, -200],  y:-400 , opacity: 1, scale: 1 }}
         transition={{
