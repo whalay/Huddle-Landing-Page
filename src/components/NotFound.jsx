@@ -9,7 +9,7 @@ const NotFound = () => {
       <Navbar />
       <div className="md:p-20 text-center block items-center justify-center">
         <motion.p 
-        animate={{ x: [10, 150, 20], opacity: 1, scale: 1 }}
+        animate={{ x: [10, 150, 10], opacity: 1, scale: 1 }}
         transition={{
             duration: 3,
             delay: 0.3,
